@@ -1,0 +1,14 @@
+C:\Users\dougl\source\repos\ActivityApp\bin\Debug\net8.0\ActivityApp.exe
+C:\Users\dougl\source\repos\ActivityApp\bin\Debug\net8.0\ActivityApp.deps.json
+C:\Users\dougl\source\repos\ActivityApp\bin\Debug\net8.0\ActivityApp.runtimeconfig.json
+C:\Users\dougl\source\repos\ActivityApp\bin\Debug\net8.0\ActivityApp.dll
+C:\Users\dougl\source\repos\ActivityApp\bin\Debug\net8.0\ActivityApp.pdb
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ActivityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ActivityApp.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ActivityApp.AssemblyInfo.cs
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ActivityApp.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ActivityApp.dll
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\refint\ActivityApp.dll
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ActivityApp.pdb
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ActivityApp.genruntimeconfig.cache
+C:\Users\dougl\source\repos\ActivityApp\obj\Debug\net8.0\ref\ActivityApp.dll
